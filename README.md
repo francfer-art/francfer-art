@@ -10,6 +10,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
 #### Projects:
+
 <p align="center">
   <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
 </p>
@@ -19,9 +20,13 @@
 </p>
 
 <p align="center">
-  <img src="https://example.com/project2.png" alt="Project 2 Logo">
-  <img src="https://img.shields.io/badge/Score-95%2F100-blue" alt="Project 2 Score">
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Score">
+</p>
+
 
 
 
