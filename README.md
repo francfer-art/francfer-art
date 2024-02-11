@@ -22,7 +22,7 @@
             <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
         </td>
 
-        <td style="text-align: center;">
+<td style="text-align: center;">
             <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOKTSMRX3JJCLO5OHVAZOI5NSQ" alt="Printf Logo">
             <br>
             <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
