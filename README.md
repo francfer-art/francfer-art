@@ -30,12 +30,14 @@
     </a>
 </td>
 
-
 <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
-            <br>
-            <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
-        </td>
+    <a href="https://github.com/ayogun/42-project-badges">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
+    </a>
+</td>
+
 
 <td style="text-align: center;">
             <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2berootm.png" alt="B2BR Logo">
