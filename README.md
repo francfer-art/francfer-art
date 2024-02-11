@@ -1,4 +1,4 @@
-### Hi there, I'm Fran 👋
+#### Hi there, I'm Fran 👋
 
 - 🔭 I’m currently exploring the realms of data analysis and cybersecurity.
 - 🌱 I’m currently honing my skills in C and Python at 42 School.
@@ -16,7 +16,6 @@
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="70">
     </a>
 </div>
-
 
 
 #### Projects:
