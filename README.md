@@ -11,13 +11,15 @@
 
 #### Projects:
 
-<p align="left">
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 10px;">
+        <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
+    </div>
+    <div style="display: flex; align-items: center;">
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Score">
+    </div>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Score">
-</p>
 
 
 
