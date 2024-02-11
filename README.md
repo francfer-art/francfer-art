@@ -8,7 +8,7 @@
 
 #### Programming Languages and Tools:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 <!---
 francfer-art/francfer-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
