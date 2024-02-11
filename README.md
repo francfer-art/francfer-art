@@ -10,13 +10,14 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
 #### Projects:
-<div align="center">
-    ![Libft](https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png)
-</div>
+<p align="center">
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
+</p>
 
-<div align="center">
-    ![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen)
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Score">
+</p>
+
 
 
 
