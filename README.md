@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @francfer-art
-- 👀 I’m interested in data analisis and cybersecurity.
-- 🌱 I’m currently learning C and Python at 42.
-- 💞️ I’m looking to collaborate on the search for security flaws.
-- 📫 How to contact me by e-mail : franfernandezleon@icloud.com
+### Hi there, I'm Fran 👋
+
+- 🔭 I’m currently exploring the realms of data analysis and cybersecurity.
+- 🌱 I’m currently honing my skills in C and Python at 42.
+- 👀 I’m passionate about uncovering security flaws and enhancing digital resilience.
+- 💼 I'm open to collaborations on projects related to cybersecurity and data analysis.
+- 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
+
+#### Programming Languages and Tools:
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <!---
 francfer-art/francfer-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
