@@ -11,13 +11,11 @@
 
 #### Projects:
 
-<p align="center">
+<p align="left">
   <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
-  <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Score">
 </p>
 
-<p align="center">
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
+<p align="left">
   <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Score">
 </p>
 
