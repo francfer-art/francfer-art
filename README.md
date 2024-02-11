@@ -17,8 +17,6 @@
     </a>
 </div>
 
-
-
 #### Projects:
 
 <table style="margin: auto;">
