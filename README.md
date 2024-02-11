@@ -9,9 +9,14 @@
 #### Programming Languages:
 
 <div style="display: flex; align-items: center;">
-    <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="50" style="margin-right: 10px;">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="50">
+    <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
+        <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="50" style="margin-right: 10px;">
+    </a>
+    <a href="https://www.freecodecamp.org/news/the-python-handbook/">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="50">
+    </a>
 </div>
+
 
 
 #### Projects:
