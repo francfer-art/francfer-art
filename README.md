@@ -1,7 +1,7 @@
 ### Hi there, I'm Fran 👋
 
 - 🔭 I’m currently exploring the realms of data analysis and cybersecurity.
-- 🌱 I’m currently honing my skills in C and Python at 42.
+- 🌱 I’m currently honing my skills in C and Python at 42 School.
 - 👀 I’m passionate about uncovering security flaws and enhancing digital resilience.
 - 💼 I'm open to collaborations on projects related to cybersecurity and data analysis.
 - 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
@@ -9,8 +9,6 @@
 #### Programming Languages:
 
 <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="Icon" width="50">
-
-
 
 #### Projects:
 
