@@ -14,34 +14,26 @@
 
 #### Projects:
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="margin: 10px;">
-        <p align="center">
-            <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
-        </p>
-        <p align="center">
-            <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
-        </p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <div style="text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
     </div>
 
-    <div style="margin: 10px;">
-        <p align="center">
-            <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOKTSMRX3JJCLO5OHVAZOI5NSQ" alt="Printf Logo">
-        </p>
-        <p align="center">
-            <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
-        </p>
+<div style="text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOKTSMRX3JJCLO5OHVAZOI5NSQ" alt="Printf Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
     </div>
 
-    <div style="margin: 10px;">
-        <p align="center">
-            <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/get_next_linem.png?token=GHSAT0AAAAAACI7BVOK6AAOOBVY5XBTJPOYZOI5OYQ" alt="GNL Logo">
-        </p>
-        <p align="center">
-            <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
-        </p>
+<div style="text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/get_next_linem.png?token=GHSAT0AAAAAACI7BVOK6AAOOBVY5XBTJPOYZOI5OYQ" alt="GNL Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
     </div>
 </div>
+
 
 
 
