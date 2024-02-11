@@ -33,6 +33,12 @@
             <br>
             <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
         </td>
+
+<td style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/get_next_linem.png?token=GHSAT0AAAAAACI7BVOK6AAOOBVY5XBTJPOYZOI5OYQ" alt="GNL Logo">
+            <br>
+            <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
+        </td>
     </tr>
 </table>
 
