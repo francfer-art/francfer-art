@@ -6,8 +6,8 @@
 - 💼 I'm open to collaborations on projects related to cybersecurity and data analysis.
 - 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
 
-#### Programming Languages and Tools:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+#### Programming Languages:
+![C]([https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white](https://simpleicons.org/icons/c.svg))
 
 #### Projects:
 
