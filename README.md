@@ -23,10 +23,13 @@
 </td>
 
 <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
-            <br>
-            <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
-        </td>
+    <a href="https://github.com/francfer-art/42Printf">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
+    </a>
+</td>
+
 
 <td style="text-align: center;">
             <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
