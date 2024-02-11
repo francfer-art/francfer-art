@@ -22,8 +22,21 @@
   <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOKTSMRX3JJCLO5OHVAZOI5NSQ">
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/get_next_linem.png?token=GHSAT0AAAAAACI7BVOK6AAOOBVY5XBTJPOYZOI5OYQ" alt="GNL Logo">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
+</p>
 
 
 
