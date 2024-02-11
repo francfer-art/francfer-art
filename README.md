@@ -18,13 +18,8 @@
   <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Score">
 </p>
 
----
-
 <p align="center">
   <img src="https://example.com/project2.png" alt="Project 2 Logo">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Score-95%2F100-blue" alt="Project 2 Score">
 </p>
 
