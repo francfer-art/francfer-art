@@ -21,19 +21,19 @@
         </td>
 
 <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOKTSMRX3JJCLO5OHVAZOI5NSQ" alt="Printf Logo">
+            <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
             <br>
             <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
         </td>
 
 <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/get_next_linem.png?token=GHSAT0AAAAAACI7BVOK6AAOOBVY5XBTJPOYZOI5OYQ" alt="GNL Logo">
+            <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
             <br>
             <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
         </td>
 
 <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/born2berootm.png?token=GHSAT0AAAAAACI7BVOLGH27TC6N4NJEAGXIZOI55LQ" alt="B2BR Logo">
+            <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2berootm.png" alt="B2BR Logo">
             <br>
             <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
         </td>
