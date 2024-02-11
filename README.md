@@ -14,11 +14,13 @@
 
 <table style="margin: auto;">
     <tr>
-        <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
-            <br>
-            <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
-        </td>
+       <td style="text-align: center;">
+    <a href="https://github.com/ayogun/42-project-badges">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
+    </a>
+</td>
 
 <td style="text-align: center;">
             <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
