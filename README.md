@@ -13,7 +13,7 @@
         <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="60" style="margin-right: 10px;">
     </a>
     <a href="https://www.freecodecamp.org/news/the-python-handbook/" style="text-decoration: none; outline: none;">
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="60">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="70">
     </a>
 </div>
 
