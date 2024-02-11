@@ -22,6 +22,13 @@
   <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fract-oln.png" alt="Fractol Logo">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Fractol Score">
+</p>
 
 
 
