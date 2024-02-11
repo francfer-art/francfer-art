@@ -7,7 +7,7 @@
 - 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
 
 #### Programming Languages:
-![C]([https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white](https://simpleicons.org/icons/c.svg))
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 #### Projects:
 
