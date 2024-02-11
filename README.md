@@ -22,8 +22,7 @@
         </p>
     </div>
 
-    <!-- Second Project -->
-    <div>
+ <div>
         <p align="center">
             <img src="https://example.com/project2.png" alt="Project 2 Logo">
         </p>
