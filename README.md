@@ -8,8 +8,7 @@
 
 #### Programming Languages:
 
-![Icon](https://camo.githubusercontent.com/eb0af45c02b821bd38dede2ff065de360a7368067dc2c0bf1f66975ff1799723/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4e2d2d5654334b545a775633786748614861267069643d417069)
-
+![Icon](https://glot.io/static/img/c.svg?etag=ZaoLBh_p)
 
 
 #### Projects:
