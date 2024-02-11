@@ -31,7 +31,7 @@
 </td>
 
 <td style="text-align: center;">
-    <a href="https://github.com/ayogun/42-project-badges">
+    <a href="https://github.com/francfer-art/42GNL">
         <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
         <br>
         <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
