@@ -8,7 +8,8 @@
 
 #### Programming Languages:
 
-![C](https://glot.io/static/img/c.svg?etag=ZaoLBh_p)
+<img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="Icon" width="50">
+
 
 
 #### Projects:
