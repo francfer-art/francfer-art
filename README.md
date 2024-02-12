@@ -9,7 +9,7 @@
 #### Programming Languages:
 
 <div style="display: flex; align-items: center;">
-    <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" style="text-decoration: none!important;">
+    <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" style="text-decoration: none'!important';">
         <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="60""/>
     </a>
     <a href="https://www.freecodecamp.org/news/the-python-handbook/" style="text-decoration: none!important;">
