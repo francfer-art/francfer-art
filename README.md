@@ -8,11 +8,11 @@
 
 #### Programming Languages:
 
-<div style="display: flex; align-items: center; overflow: hidden;">
-    <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
+<div>
+    <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" style="float:left">
         <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="60""/>
     </a>
-    <a href="https://www.freecodecamp.org/news/the-python-handbook/">
+    <a href="https://www.freecodecamp.org/news/the-python-handbook/" style="float:left">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="70"/>
     </a>
 </div>
