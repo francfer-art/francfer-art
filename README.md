@@ -8,7 +8,7 @@
 
 #### Programming Languages:
 
-<div>
+<div style="text-decoration: none">
     <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" style="float:left">
         <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="60""/>
     </a>
