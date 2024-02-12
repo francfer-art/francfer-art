@@ -14,7 +14,20 @@
         <img style="text-decoration: none" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="70"/>
     </a>
 </div>
-
+<table style="margin: auto;">
+    <tr>
+       <td style="text-align: center;">
+    <a href="https://www.freecodecamp.org/news/the-python-handbook/" style="text-decoration: none"">
+        <img style="text-decoration: none" src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="60"">
+    </a>
+</td>
+<td style="text-align: center;">
+    <a href="https://github.com/gemartin99/Born2beroot-Tutorial">
+        <img img style="text-decoration: none" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="70">
+    </a>
+</td>
+    </tr>
+</table>
 
 #### 42 Projects:
 
