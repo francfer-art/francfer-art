@@ -15,6 +15,9 @@
     <a href="https://www.freecodecamp.org/news/the-python-handbook/" style="text-decoration: none!important;">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="70"/>
     </a>
+     <a href="https://www.freecodecamp.org/news/the-python-handbook/" style="text-decoration: none!important;">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="70"/>
+    </a>
 </div>
 
 
