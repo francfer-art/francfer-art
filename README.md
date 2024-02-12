@@ -4,7 +4,7 @@
 - 🌱 I’m currently honing my skills in C and Python at 42 School.
 - 👀 I’m passionate about uncovering security flaws and enhancing digital resilience.
 - 💼 I'm open to collaborations on projects related to cybersecurity and data analysis.
-- 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
+- 📫 You can reach out to me via email: [franfernandezleon@icloud.com](franfernandezleon@icloud.com)
 
 #### Programming Languages:
 
