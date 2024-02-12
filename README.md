@@ -18,7 +18,7 @@
 
 #### 42 Projects:
 
-<table style="margin: auto;">
+<table style="margin: auto; border: none;">
     <tr>
        <td style="text-align: center;">
     <a href="https://github.com/francfer-art/42Libft">
