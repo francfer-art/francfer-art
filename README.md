@@ -7,11 +7,7 @@
 - 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
 
 #### Programming Languages:
-<style>
-    a {
-        text-decoration: none;
-    }
-</style>
+
 <div style="display: flex; align-items: center;">
     <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
         <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="60""/>
