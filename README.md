@@ -8,7 +8,7 @@
 
 #### Programming Languages:
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; overflow: hidden;">
     <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
         <img src="https://glot.io/static/img/c.svg?etag=ZaoLBh_p" alt="C" width="60""/>
     </a>
