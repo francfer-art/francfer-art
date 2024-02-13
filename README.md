@@ -58,6 +58,14 @@
         <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
     </a>
 </td>
+
+<td style="text-align: center;">
+    <a href="https://github.com/gemartin99/Born2beroot-Tutorial">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="B2BR Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
+    </a>
+</td>
     </tr>
 </table>
 
