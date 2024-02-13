@@ -61,9 +61,9 @@
 
 <td style="text-align: center;">
     <a href="https://github.com/gemartin99/Born2beroot-Tutorial">
-        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="B2BR Logo">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="Fractol Logo">
         <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
+        <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="Fractol Score">
     </a>
 </td>
     </tr>
