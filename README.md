@@ -60,7 +60,7 @@
 </td>
 
 <td style="text-align: center;">
-    <a href="https://github.com/gemartin99/Born2beroot-Tutorial">
+    <a href="https://github.com/francfer-art/42Fractol">
         <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="Fractol Logo">
         <br>
         <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="Fractol Score">
