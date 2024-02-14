@@ -12,7 +12,11 @@
     <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="My Skills">
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,html,css)](https://skillicons.dev)
+<div style="text-align: center;">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="My Skills">
+    </a>
+</div>
 
 #### 42 Projects:
 
