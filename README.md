@@ -12,6 +12,13 @@
     <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="My Skills">
 </a>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ## Software:
 
 <a href="https://github.com/francfer-art/francfer-art">
