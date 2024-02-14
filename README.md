@@ -8,7 +8,11 @@
 
 #### Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,html,css)](https://skillicons.dev)
+<a href="https://github.com/francfer-art/francfer-art">
+    <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="My Skills">
+</a>
+
+[![My Skills](https://skillicons.dev/icons?i=c,py,html,css)](https://skillicons.dev)
 
 #### 42 Projects:
 
