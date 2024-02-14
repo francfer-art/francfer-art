@@ -8,6 +8,7 @@
 
 #### Programming Languages:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <table style="margin: auto;">
     <tr>
        <td style="text-align: center;">
