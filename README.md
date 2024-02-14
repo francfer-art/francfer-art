@@ -12,13 +12,6 @@
     <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="My Skills">
 </a>
 
-<p align="center">
-  <a href="https://github.com/francfer-art/francfer-art">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="My Skills" />
-  </a>
-</p>
-
-
 #### 42 Projects:
 
 <table style="margin: auto;">
