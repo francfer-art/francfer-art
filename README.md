@@ -6,7 +6,7 @@
 - 💼 I'm open to collaborations on projects related to cybersecurity and data analysis.
 - 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
   
-[![francfer's 42 stats](https://badge.mediaplus.ma/black/francfer?MalagaBadge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![francfer's 42 stats](https://badge.mediaplus.ma/black/francfer?MalagaBadge=off&UM6P=on)](https://github.com/oakoudad/badge42)
 
 ## Languages
 
