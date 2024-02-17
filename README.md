@@ -71,20 +71,50 @@
 </td>
 </table>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
-    <!-- Background Rectangle -->
-    <rect width="100%" height="100%" fill="#000" rx="15"/>
-    <!-- Header: Name -->
-    <text x="50%" y="30" font-size="20" fill="#fff" text-anchor="middle">John Doe</text>
-    <!-- Email -->
-    <text x="50%" y="60" font-size="12" fill="#fff" text-anchor="middle">johndoe@example.com</text>
-    <!-- Cursus -->
-    <text x="50%" y="90" font-size="12" fill="#fff" text-anchor="middle">Computer Science</text>
-    <!-- Grade -->
-    <text x="50%" y="120" font-size="12" fill="#fff" text-anchor="middle">Grade: A</text>
-    <!-- Experience Level -->
-    <text x="50%" y="150" font-size="12" fill="#fff" text-anchor="middle">Experience: Intermediate</text>
-</svg>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Badge</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        .badge {
+            width: 300px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px auto;
+        }
+        .badge img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+            display: block;
+            margin: 0 auto;
+        }
+        .badge p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="badge">
+        <img src="profile_picture.jpg" alt="Profile Picture">
+        <p><strong>Name:</strong> John Doe</p>
+        <p><strong>Email:</strong> johndoe@example.com</p>
+        <p><strong>Cursus:</strong> Computer Science</p>
+        <p><strong>Grade:</strong> A</p>
+        <p><strong>Experience:</strong> Intermediate</p>
+    </div>
+</body>
+</html>
+
 
 
 
