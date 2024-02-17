@@ -53,20 +53,12 @@
         <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
     </a>
 </td>
-
-<td style="text-align: center;">
+    </tr>
+ <td style="text-align: center;">
     <a href="https://github.com/francfer-art/42Fractol">
         <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="Fractol Logo">
         <br>
         <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="Fractol Score">
-    </a>
-</td>
-    </tr>
-     <td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42Libft">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
     </a>
 </td>
 </table>
