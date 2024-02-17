@@ -78,6 +78,51 @@
     </tr>
 </table>
 
+<table style="margin: auto; width: 100%;">
+  <tr>
+    <td style="text-align: center; width: 20%;">
+      <a href="https://github.com/francfer-art/42Libft">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
+      </a>
+    </td>
+      
+<td style="text-align: center; width: 20%;">
+      <a href="https://github.com/francfer-art/42Printf">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
+      </a>
+    </td>
+    
+<td style="text-align: center; width: 20%;">
+      <a href="https://github.com/francfer-art/42GNL">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
+      </a>
+    </td>
+
+ <td style="text-align: center; width: 20%;">
+      <a href="https://github.com/gemartin99/Born2beroot-Tutorial">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2berootm.png" alt="B2BR Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
+      </a>
+    </td>
+    
+<td style="text-align: center; width: 20%;">
+      <a href="https://github.com/francfer-art/42Fractol">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="Fractol Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="Fractol Score">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
