@@ -18,12 +18,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,vim" alt="My Skills">
 </a>
 
-<p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/50/b2/3150b27e-d4f5-dcd1-a364-bd956a6def7f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="100">
-</p>
-
-<h3 align="center">Projects</h3>
-
+## 42 Projects
 
 <table style="margin: auto;">
     <tr>
