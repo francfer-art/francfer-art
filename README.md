@@ -53,6 +53,11 @@
         <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
     </a>
 </td>
+<td style="text-align: center;">
+        <img src="https://github.com/francfer-art/Badges/blob/main/surveym%20(5).png?raw=true" alt="Exam Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Exam Score">
+</td>
     </tr>
  <td style="text-align: center;">
     <a href="https://github.com/francfer-art/42Fractol">
