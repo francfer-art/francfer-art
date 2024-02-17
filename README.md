@@ -119,6 +119,14 @@
         <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="Fractol Score">
       </a>
     </td>
+
+<td style="text-align: center; width: 20%;">
+      <a href="https://github.com/gemartin99/Born2beroot-Tutorial">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2berootm.png" alt="B2BR Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
+      </a>
+    </td>
   </tr>
 </table>
 
