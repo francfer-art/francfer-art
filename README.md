@@ -61,6 +61,20 @@
         <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="Fractol Score">
     </a>
 </td>
+<td style="text-align: center;">
+    <a href="https://github.com/francfer-art/42Printf">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
+    </a>
+</td>
+<td style="text-align: center;">
+    <a href="https://github.com/francfer-art/42Printf">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
+    </a>
+</td>
     </tr>
 </table>
 
