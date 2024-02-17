@@ -6,13 +6,13 @@
 - 💼 I'm open to collaborations on projects related to cybersecurity and data analysis.
 - 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
 
-## Languages:
+## Languages
 
 <a href="https://github.com/francfer-art/francfer-art">
     <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="My Skills">
 </a>
 
-## Software:
+## Software
 
 <a href="https://github.com/francfer-art/francfer-art">
     <img src="https://skillicons.dev/icons?i=vscode,vim" alt="My Skills">
