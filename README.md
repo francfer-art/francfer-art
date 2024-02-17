@@ -20,6 +20,9 @@
 
 #### 42 Projects:
 
+![42 Logo](https://www.42.us.org/wp-content/uploads/2020/07/42_logo_black_140x140.png)
+
+
 <table style="margin: auto;">
     <tr>
        <td style="text-align: center;">
