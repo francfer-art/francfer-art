@@ -71,3 +71,41 @@
 </td>
 </table>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Badge Example</title>
+  <style>
+    .badge {
+      background-color: #007bff; /* Blue background color */
+      color: white; /* White text color */
+      padding: 5px 10px; /* Padding around the text */
+      border-radius: 5px; /* Rounded corners */
+      display: inline-block; /* Display as inline block */
+    }
+    .animated-badge {
+      animation: badgeAnimation 2s infinite; /* Use badgeAnimation for 2 seconds infinitely */
+    }
+
+@keyframes badgeAnimation {
+      0% {
+        transform: scale(1); /* Initial scale */
+      }
+      50% {
+        transform: scale(1.2); /* Scale up to 1.2 at 50% of the animation */
+      }
+      100% {
+        transform: scale(1); /* Return to original scale at the end of the animation */
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="badge animated-badge">
+    <span class="badge-text">Animated Badge Example</span>
+  </div>
+</body>
+</html>
+
