@@ -54,9 +54,11 @@
     </a>
 </td>
 <td style="text-align: center;">
+    <a href="https://projects.intra.42.fr/exam-rank-02/mine">
         <img src="https://github.com/francfer-art/Badges/blob/main/surveym%20(5).png?raw=true" alt="Exam Logo">
         <br>
         <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Exam Score">
+    </a>
 </td>
     </tr>
  <td style="text-align: center;">
