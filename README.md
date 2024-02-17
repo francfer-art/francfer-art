@@ -71,6 +71,20 @@
 </td>
 </table>
 
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+    <!-- Background Rectangle -->
+    <rect width="100%" height="100%" fill="#000" rx="15"/>
+    <!-- Header: Name -->
+    <text x="50%" y="30" font-size="20" fill="#fff" text-anchor="middle">John Doe</text>
+    <!-- Email -->
+    <text x="50%" y="60" font-size="12" fill="#fff" text-anchor="middle">johndoe@example.com</text>
+    <!-- Cursus -->
+    <text x="50%" y="90" font-size="12" fill="#fff" text-anchor="middle">Computer Science</text>
+    <!-- Grade -->
+    <text x="50%" y="120" font-size="12" fill="#fff" text-anchor="middle">Grade: A</text>
+    <!-- Experience Level -->
+    <text x="50%" y="150" font-size="12" fill="#fff" text-anchor="middle">Experience: Intermediate</text>
+</svg>
 
 
 
