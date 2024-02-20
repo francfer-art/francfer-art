@@ -73,7 +73,7 @@
     <a href="https://github.com/francfer-art/42PushSwap">
         <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/push_swapm.png" alt="PushSwap Logo">
         <br>
-        <img src="https://img.shields.io/badge/Score-Ongoing-brightgreen" alt="PushSwap Score">
+        <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="PushSwap Score">
     </a>
 </td>
 </table>
