@@ -66,7 +66,7 @@
     <a href="https://github.com/francfer-art/42Fractol">
         <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="Fractol Logo">
         <br>
-        <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="Fractol Score">
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Fractol Score">
     </a>
 </td>
  <td style="text-align: center;">
