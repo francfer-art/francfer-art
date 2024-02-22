@@ -76,4 +76,11 @@
         <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="PushSwap Score">
     </a>
 </td>
+ <td style="text-align: center;">
+    <a href="https://github.com/francfer-art/42Minitalk">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minitalkm.png" alt="Minitalk Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-Ongoing-brightgreen" alt="Minitalk Score">
+    </a>
+</td>
 </table>
