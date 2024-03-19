@@ -94,10 +94,10 @@
 </td>
 </td>
  <td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42Minitalk">
-        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minitalkm.png" alt="Minitalk Logo">
+    <a href="">
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png?raw=true" alt="Philo Logo">
         <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Minitalk Score">
+        <img src="https://img.shields.io/badge/Score-Ongoing-brightgreen" alt="Minitalk Score">
     </a>
 </td>
 </table>
