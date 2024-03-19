@@ -83,4 +83,13 @@
         <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Minitalk Score">
     </a>
 </td>
+</td>
+    </tr>
+    <td style="text-align: center;">
+    <a href="https://projects.intra.42.fr/projects/exam-rank-03/projects_users/3597084">
+        <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/surveym%20(4).png?token=GHSAT0AAAAAACMDSRWLBG5NBSRAKVGL6SBKZPZQRFAe" alt="Exam Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Exam Score">
+    </a>
+</td>
 </table>
