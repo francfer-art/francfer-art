@@ -61,7 +61,7 @@
         <br>
         <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Exam Score">
     </a>
-    </td>
+</td>
  <td style="text-align: center;">
     <a href="https://github.com/francfer-art/42Fractol">
         <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="Fractol Logo">
