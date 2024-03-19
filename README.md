@@ -92,4 +92,12 @@
         <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Exam Score">
     </a>
 </td>
+</td>
+ <td style="text-align: center;">
+    <a href="https://github.com/francfer-art/42Minitalk">
+        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minitalkm.png" alt="Minitalk Logo">
+        <br>
+        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Minitalk Score">
+    </a>
+</td>
 </table>
