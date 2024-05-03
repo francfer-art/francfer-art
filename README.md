@@ -22,64 +22,63 @@
 
 <table style="margin: auto;">
     <tr>
-       <td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42Libft">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
-    </a>
-</td>
-
-<td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42Printf">
-        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
-    </a>
-</td>
-
-<td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42GNL">
-        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
-    </a>
-</td>
-
-<td style="text-align: center;">
-    <a href="https://github.com/gemartin99/Born2beroot-Tutorial">
-        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2berootm.png" alt="B2BR Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
-    </a>
-</td>
- <td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42Fractol">
-        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="Fractol Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Fractol Score">
-    </a>
-</td>
- <td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42PushSwap">
-        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/push_swapm.png" alt="PushSwap Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="PushSwap Score">
-    </a>
-</td>
- <td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42Minitalk">
-        <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minitalkm.png" alt="Minitalk Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Minitalk Score">
-    </a>
-</td>
-</td>
- <td style="text-align: center;">
-    <a href="https://github.com/francfer-art/42Philo.git">
-        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png?raw=true" alt="Philo Logo">
-        <br>
-        <img src="https://img.shields.io/badge/Score-Ongoing-brightgreen" alt="Minitalk Score">
-    </a>
-</td>
+        <td style="text-align: center;">
+            <a href="https://github.com/francfer-art/42Libft">
+                <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/francfer-art/42Printf">
+                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/francfer-art/42GNL">
+                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/gemartin99/Born2beroot-Tutorial">
+                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2berootm.png" alt="B2BR Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
+            <a href="https://github.com/francfer-art/42Fractol">
+                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/fract-olm.png" alt="Fractol Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Fractol Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/francfer-art/42PushSwap">
+                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/push_swapm.png" alt="PushSwap Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="PushSwap Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/francfer-art/42Minitalk">
+                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minitalkm.png" alt="Minitalk Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Minitalk Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/francfer-art/42Philo.git">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png?raw=true" alt="Philo Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-Ongoing-brightgreen" alt="Minitalk Score">
+            </a>
+        </td>
+    </tr>
 </table>
