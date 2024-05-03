@@ -77,8 +77,16 @@
             <a href="https://github.com/francfer-art/42Philo.git">
                 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png?raw=true" alt="Philo Logo">
                 <br>
-                <img src="https://img.shields.io/badge/Score-Ongoing-brightgreen" alt="Minitalk Score">
+                <img src="https://img.shields.io/badge/Score-Evaluating-brightgreen" alt="Philo Score">
             </a>
         </td>
     </tr>
+    <tr>
+        <td style="text-align: center;">
+            <a href="https://github.com/francfer-art/Cositas">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png?raw=true" alt="Minishell Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-Ongoing-brightgreen" alt="Minishell Score">
+            </a>
+        </td>
 </table>
