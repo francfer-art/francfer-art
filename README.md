@@ -15,7 +15,7 @@
 ## Software
 
 <a href="https://github.com/francfer-art/francfer-art">
-    <img src="https://skillicons.dev/icons?i=vscode,vim" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,notion" alt="My Skills">
 </a>
 
 ## 42 Projects
