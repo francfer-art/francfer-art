@@ -5,6 +5,7 @@
 - 👀 I’m passionate about uncovering security flaws and enhancing digital resilience.
 - 💼 I'm open to collaborations on projects related to cybersecurity and data analysis.
 - 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
+- <img src="https://skillicons.dev/icons?i=linkedin" 
 
 ## Languages
 
