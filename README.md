@@ -9,7 +9,7 @@
 ## Languages
 
 <a href="https://github.com/francfer-art/francfer-art">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js linkedin" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" alt="My Skills">
 </a>
 
 ## Software
