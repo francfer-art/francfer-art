@@ -5,12 +5,11 @@
 - 👀 I’m passionate about uncovering security flaws and enhancing digital resilience.
 - 💼 I'm open to collaborations on projects related to cybersecurity and data analysis.
 - 📫 You can reach out to me via email: [franfernandezleon@icloud.com](mailto:franfernandezleon@icloud.com)
-- <img src="https://skillicons.dev/icons?i=linkedin" 
 
 ## Languages
 
 <a href="https://github.com/francfer-art/francfer-art">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js linkedin" alt="My Skills">
 </a>
 
 ## Software
