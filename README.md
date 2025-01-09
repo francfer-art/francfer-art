@@ -90,7 +90,7 @@
             </a>
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/VictorSuarezL/42-minishell">
+            <a href="https://github.com/francfer-art/miniRTT">
                 <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minirtm.png" alt="MiniRT Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="MiniRT Score">
