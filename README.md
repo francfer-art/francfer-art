@@ -89,7 +89,6 @@
                 <img src="https://img.shields.io/badge/Score-109%2F100-brightgreen" alt="Minishell Score">
             </a>
         </td>
-    <tr>
         <td style="text-align: center;">
             <a href="https://github.com/VictorSuarezL/42-minishell">
                 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png?raw=true" alt="Minishell Logo">
