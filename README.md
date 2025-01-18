@@ -156,8 +156,8 @@
   <a href="https://github.com/francfer-art/Pixar" target="_blank">
     <img src="https://github.com/francfer-art/Pixar/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2021.15.37.png?raw=true" width="200" />
     <img src="https://github.com/francfer-art/Pixar/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2021.13.51.png?raw=true" width="200" />
+    <img src="https://github.com/francfer-art/Pixar/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2021.14.08.png?raw=true" width="200" />
     <img src="https://github.com/francfer-art/Pixar/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2021.15.20.png?raw=true" width="200" />
-    <img src="https://github.com/francfer-art/FurFriends/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2020.26.03.png?raw=true" width="200" />
   </a>
 </div>
 
