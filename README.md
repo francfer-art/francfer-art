@@ -108,10 +108,10 @@ A simple calculator:
 </div>
 
 <div class="tech-stack">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="30" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
 </div>
 
 
