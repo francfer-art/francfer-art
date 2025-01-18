@@ -113,7 +113,8 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
 </div>
 
-<div style="border-top: 2px solid gray; margin: 20px 0;"></div>
+<hr style="border: 2px solid gray; margin: 20px 0;">
+
 
 <div>
   <a href="https://github.com/francfer-art/Tetris" target="_blank">
@@ -127,7 +128,7 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
 </div>
 
-<div style="border-top: 2px solid gray; margin: 20px 0;"></div>
+<hr style="border: 2px solid gray; margin: 20px 0;">
 
 
 <div>
