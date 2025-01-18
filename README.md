@@ -100,7 +100,6 @@
 
 ## Web Development Projects
 
-A simple calculator:
 <div class="gif-container">
   <a href="https://github.com/francfer-art/Calculator" target="_blank">
     <img src="https://github.com/francfer-art/Calculator/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2017.08.03.png?raw=true" alt="Calculator GIF" width="200" />
@@ -114,9 +113,8 @@ A simple calculator:
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
 </div>
 
-Custom tetris:
 <div class="gif-container">
-  <a href="https://github.com/francfer-art/Calculator" target="_blank">
+  <a href="https://github.com/francfer-art/Tetris" target="_blank">
     <img src="https://github.com/francfer-art/Tetris/blob/main/assets/bg.jpg?raw=true" alt="Tetris GIF" width="200" />
   </a>
 </div>
