@@ -101,7 +101,10 @@
 ## Web Development Projects
 
 A simple calculator:
-<img src="https://ibb.co/RHxYMVj" alt="Calculator" height="100" />
+  <div class="gif-container">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWwwZXdzMDdhbHF5ZWZhamV1cHkwcnN1dHYxM2htNzVhd2J3a3JuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiC5N2o57QVmLInd4J/giphy.gif" alt="Calculator GIF" width="200" />
+    <p>A simple calculator:</p>
+  </div>
   <div class="tech-stack">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="20" />
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="20" />
