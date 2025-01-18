@@ -114,4 +114,17 @@ A simple calculator:
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
 </div>
 
+Custom tetris:
+<div class="gif-container">
+  <a href="https://github.com/francfer-art/Calculator" target="_blank">
+    <img src="https://github.com/francfer-art/Tetris/blob/main/assets/bg.jpg?raw=true" alt="Tetris GIF" width="200" />
+  </a>
+</div>
+
+<div class="tech-stack">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
+</div>
+
 
