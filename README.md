@@ -101,7 +101,7 @@
 ## Web Development Projects
 
 A simple calculator:
-![Calculator App Screenshot](https://ibb.co/RHxYMVj)
+<img src="https://ibb.co/RHxYMVj" alt="Calculator" height="100" />
   <div class="tech-stack">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="20" />
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="20" />
