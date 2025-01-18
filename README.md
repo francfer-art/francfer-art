@@ -136,7 +136,7 @@
 
 <div>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="EJS" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Ejs_logo.png" alt="EJS" height="30" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
 </div>
