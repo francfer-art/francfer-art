@@ -100,27 +100,43 @@
 
 ## Web Development Projects
 
-<div class="gif-container">
+<div>
   <a href="https://github.com/francfer-art/Calculator" target="_blank">
     <img src="https://github.com/francfer-art/Calculator/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2017.08.03.png?raw=true" alt="Calculator GIF" width="200" />
   </a>
 </div>
 
-<div class="tech-stack">
+<div>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="30" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
 </div>
 
-<div class="gif-container">
+<div>
   <a href="https://github.com/francfer-art/Tetris" target="_blank">
     <img src="https://github.com/francfer-art/Tetris/blob/main/assets/bg.jpg?raw=true" alt="Tetris GIF" width="200" />
   </a>
 </div>
 
-<div class="tech-stack">
+<div>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
+</div>
+
+<div>
+  <a href="https://github.com/francfer-art/FurFriends" target="_blank">
+    <img src="https://github.com/francfer-art/FurFriends/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2020.23.19.png?raw=true" alt="Furfirends" width="200" />
+    <img src="https://github.com/francfer-art/FurFriends/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2020.25.31.png?raw=true" width="200" />
+    <img src="https://github.com/francfer-art/FurFriends/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2020.25.45.png?raw=true" width="200" />
+    <img src="https://github.com/francfer-art/FurFriends/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2020.26.03.png?raw=true" width="200" />
+  </a>
+</div>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="EJS" height="30" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
 </div>
