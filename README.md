@@ -102,8 +102,7 @@
 
 A simple calculator:
   <div class="gif-container">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWwwZXdzMDdhbHF5ZWZhamV1cHkwcnN1dHYxM2htNzVhd2J3a3JuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiC5N2o57QVmLInd4J/giphy.gif" alt="Calculator GIF" width="200" />
-    <p>A simple calculator:</p>
+    <img src="https://github.com/francfer-art/Calculator/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2017.08.03.png?raw=true" alt="Calculator GIF" width="200" />
   </div>
   <div class="tech-stack">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="20" />
