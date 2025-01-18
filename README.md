@@ -101,14 +101,17 @@
 ## Web Development Projects
 
 A simple calculator:
-  <div class="gif-container">
+<div class="gif-container">
+  <a href="https://github.com/francfer-art/francfer-art/Calculator" target="_blank">
     <img src="https://github.com/francfer-art/Calculator/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2017.08.03.png?raw=true" alt="Calculator GIF" width="200" />
-  </div>
-  <div class="tech-stack">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="20" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="20" />
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="20" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="20" />
-  </div>
-You can check out the project on [GitHub](https://github.com/francfer-art/francfer-art/Calculator).
+  </a>
+</div>
+
+<div class="tech-stack">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="20" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="20" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="20" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="20" />
+</div>
+
 
