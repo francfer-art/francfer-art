@@ -100,3 +100,11 @@
 
 ## Web Development Projects
 
+A simple calculator built with the following technologies:
+- <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="20" />
+- <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="20" />
+- <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="20" />
+- <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="20" />
+
+You can check out the project on [GitHub](https://github.com/francfer-art/francfer-art/Calculator).
+
