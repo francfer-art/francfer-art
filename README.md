@@ -187,7 +187,7 @@
 <p>An interactive typing game designed to improve typing speed and accuracy with a simple and effective interface. Users can practice with different difficulty levels and track their progress.</p>
 
 <div>
-  <a href="https://github.com/francfer-art/Pixar" target="_blank">
+  <a href="https://github.com/francfer-art/TypeVerse" target="_blank">
     <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/Intro.png?raw=true" width="200" />
     <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/worddisplay.png?raw=true" width="200" />
   </a>
