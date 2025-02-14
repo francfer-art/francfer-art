@@ -162,7 +162,7 @@
 <hr style="border: 2px solid gray; margin: 20px 0;">
 
 <h2>🎬 Pixar</h2>
-<p>A web platform where users can sign up, browse Pixar movies fetched from a private API, view characters from those movies, and add films to their favorites. Developed in collaboration with <a href="https://github.com/AngelesFernandez1"> @AngelesFernandez1</a></p>
+<p>A web platform where users can sign up, browse Pixar movies fetched from a private API, view characters from those movies, and add films to their favorites. Developed in collaboration with <a href="https://github.com/AngelesFernandez1"> @AngelesFernandez1</a> <a href="https://github.com/AmalioGs"> @AmalioGs</a> and <a href="https://github.com/DCandil"> @DCandil</a></p>
 
 <div>
   <a href="https://github.com/francfer-art/Pixar" target="_blank">
