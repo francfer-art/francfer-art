@@ -190,7 +190,6 @@
   <a href="https://github.com/francfer-art/Pixar" target="_blank">
     <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/Intro.png?raw=true" width="200" />
     <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/worddisplay.png?raw=true" width="200" />
-    <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/TypeVerseShow.mp4" width="200" />
   </a>
 </div>
 
