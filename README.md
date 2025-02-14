@@ -98,8 +98,11 @@
         </td>
 </table>
 
-## Web Development Projects
+## 🚀 Web Development Projects
+<p>A collection of web applications I've built using different technologies. Each project showcases a unique concept and functionality.</p>
 
+<h2>🧮 Calculator</h2>
+<p>A simple calculator that supports basic arithmetic operations (addition, subtraction, multiplication, and division) between two numbers.</p>
 <div>
   <a href="https://github.com/francfer-art/Calculator" target="_blank">
     <img src="https://github.com/francfer-art/Calculator/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2017.08.03.png?raw=true" alt="Calculator GIF" width="200" />
