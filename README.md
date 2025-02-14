@@ -183,3 +183,24 @@
 </div>
 
 
+<h2>⌨️ TypeVerse</h2>
+<p>An interactive typing game designed to improve typing speed and accuracy with a simple and effective interface. Users can practice with different difficulty levels and track their progress.</p>
+
+<div>
+  <a href="https://github.com/francfer-art/Pixar" target="_blank">
+    <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/Intro.png?raw=true" width="200" />
+    <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/worddisplay.png?raw=true" width="200" />
+    <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/TypeVerseShow.mp4?raw=true" width="200" />
+    <img src="https://github.com/francfer-art/Pixar/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2021.15.20.png?raw=true" width="200" />
+  </a>
+</div>
+
+<span>🛠 Tech Stack:</span>
+<div>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="30" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
+</div>
+
+
