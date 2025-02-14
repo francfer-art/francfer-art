@@ -190,8 +190,7 @@
   <a href="https://github.com/francfer-art/Pixar" target="_blank">
     <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/Intro.png?raw=true" width="200" />
     <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/worddisplay.png?raw=true" width="200" />
-    <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/TypeVerseShow.mp4?raw=true" width="200" />
-    <img src="https://github.com/francfer-art/Pixar/blob/main/Captura%20de%20pantalla%202025-01-18%20a%20las%2021.15.20.png?raw=true" width="200" />
+    <img src="https://github.com/francfer-art/TypeVerse/blob/main/TypeVerse/src/assets/TypeVerseShow.mp4" width="200" />
   </a>
 </div>
 
