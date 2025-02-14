@@ -118,6 +118,8 @@
 
 <hr style="border: 2px solid gray; margin: 20px 0;">
 
+<h2>🎮 Tetris</h2>
+<p>A classic Tetris-inspired game with a few different piece shapes for a unique twist.</p>
 
 <div>
   <a href="https://github.com/francfer-art/Tetris" target="_blank">
@@ -133,6 +135,8 @@
 
 <hr style="border: 2px solid gray; margin: 20px 0;">
 
+<h2>🐾 FurFriends</h2>
+<p>A social network where users can register their pets, edit both personal and pet information, and manage profiles.</p>
 
 <div>
   <a href="https://github.com/francfer-art/FurFriends" target="_blank">
@@ -154,6 +158,8 @@
 
 <hr style="border: 2px solid gray; margin: 20px 0;">
 
+<h2>🎬 Pixar</h2>
+<p>A web platform where users can sign up, browse Pixar movies fetched from a private API, view characters from those movies, and add films to their favorites. Developed in collaboration with others.</p>
 
 <div>
   <a href="https://github.com/francfer-art/Pixar" target="_blank">
@@ -164,6 +170,7 @@
   </a>
 </div>
 
+<span>🛠 Tech Stack:</span>
 <div>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="30" />
