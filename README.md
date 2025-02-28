@@ -97,7 +97,7 @@
             </a>
         </td>
             <td style="text-align: center;">
-            <a href="https://github.com/francer-art/CPP00">
+            <a href="https://github.com/francfer-art/CPP00">
                 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png?raw=true" alt="CPP Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-OnGoing-brightgreen" alt="CPP Score">
