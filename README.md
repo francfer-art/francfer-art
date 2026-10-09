@@ -34,11 +34,9 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fran-fernandez-leon">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:franfernandezleon@icloud.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/francfer-art?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/fran-fernandez-leon"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:franfernandezleon@icloud.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/francfer-art?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:334155,100:0f172a&section=footer" alt="" />
