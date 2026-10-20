@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=francfer-art&label=Profile%20views&labelColor=1e293b&color=3b82f6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VictorSuarezL&label=Profile%20views&labelColor=1e293b&color=3b82f6&style=for-the-badge" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:334155,100:0f172a&section=footer" alt="" />
