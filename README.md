@@ -37,7 +37,10 @@
   <a href="https://www.linkedin.com/in/fran-fernandez-leon"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:franfernandezleon@icloud.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/francfer-art?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=francfer-art&label=Profile%20views&color=1e293b&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=francfer-art&label=Profile%20views&labelColor=1e293b&color=3b82f6&style=for-the-badge" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:334155,100:0f172a&section=footer" alt="" />
